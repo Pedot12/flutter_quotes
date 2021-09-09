@@ -1,0 +1,4 @@
+#Thu Sep 09 11:51:31 PST 2021
+base.0=/Users/jhunreylucero/Desktop/projects/flutter_quotes/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
